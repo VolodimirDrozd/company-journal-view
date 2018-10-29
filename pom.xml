@@ -14,7 +14,7 @@
 		</dependency>
 		<dependency>
 			<groupId>com.testproject</groupId>
-			<artifactId>company-journal-app</artifactId>
+			<artifactId>company-journal-persistence</artifactId>
 			<version>1.0</version>
 		</dependency>
 		<dependency>
@@ -27,6 +27,11 @@
 			<groupId>javax.ejb</groupId>
 			<artifactId>javax.ejb-api</artifactId>
 			<version>3.2</version>
+		</dependency>
+		<dependency>
+			<groupId>javax.servlet</groupId>
+			<artifactId>jstl</artifactId>
+			<version>1.2</version>
 		</dependency>
 		<dependency>
 			<groupId>junit</groupId>
